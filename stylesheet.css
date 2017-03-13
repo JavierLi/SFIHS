@@ -2,3 +2,19 @@ header {
 	text-align: center;
 	font-size: 40;
 }
+
+.area{
+/*    height: 50%;
+    width: 50%;*/
+    background: red;
+    border: solid;
+/*    text-align: center;
+    display:table-cell;
+    vertical-align: middle;*/
+}​
+
+div {
+	text-align: center;
+	vertical-align: middle;
+	line-height: 50%;
+}
